@@ -10,4 +10,4 @@ inputs:
   path: go/src/github.com/Nagagopi/concourse-demo-app
 
 run:
-  path: go/src/github.com/Nagagopi/concourse-demo-app/ci/run-unit-tests
+  path: concourse-demo-app-master/ci/run-unit-tests
