@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/xchapter7x/concourse-demo-app",
+	"ImportPath": "github.com/Nagagopi/concourse-demo-app",
 	"GoVersion": "go1.5.2",
 	"Packages": [
 		"./..."
